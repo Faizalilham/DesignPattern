@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DesignPattern</string>
+    <string name="car">Car</string>
+    <string name="hallo_dek">Hallo dek</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_category">Enter Category</string>
+    <string name="enter_price">Enter Price</string>
+    <string name="enter_status">Enter Status</string>
+    <string name="post_data">Post Data</string>
+    <string name="update_data">Update Data</string>
+</resources>
